@@ -14,3 +14,10 @@ The output of the application is build using the Postman API development tool.
 
 ### 3. Displaying the chain.
 <img src = "Blockchain Create/Images/mine2.JPG" width=800>
+
+
+## NEW ADDITION ->
+### DATE: 5 AUGUST 2020
+Now you can have cryptocurrency transaction inside the blocks you can send the amount as well as you can recieve the amount.
+
+<img src = "Blockchain Create/Images/transactionss.png" width=800>
